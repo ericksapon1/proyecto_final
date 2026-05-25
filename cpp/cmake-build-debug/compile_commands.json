@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/Documentos/UMG/2026/Programacion III/Proyecto_Final/cpp/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -I\"D:/Documentos/UMG/2026/Programacion III/Proyecto_Final/cpp\" -I\"D:/Documentos/UMG/2026/Programacion III/Proyecto_Final/cpp/Include\" -g -std=gnu++17 -fdiagnostics-color=always -o CMakeFiles\\Proyecto_Final.dir\\src\\main.cpp.obj -c \"D:\\Documentos\\UMG\\2026\\Programacion III\\Proyecto_Final\\cpp\\src\\main.cpp\"",
+  "file": "D:/Documentos/UMG/2026/Programacion III/Proyecto_Final/cpp/src/main.cpp",
+  "output": "D:/Documentos/UMG/2026/Programacion III/Proyecto_Final/cpp/cmake-build-debug/CMakeFiles/Proyecto_Final.dir/src/main.cpp.obj"
+}
+]

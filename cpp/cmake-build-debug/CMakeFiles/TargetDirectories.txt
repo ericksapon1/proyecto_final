@@ -1,0 +1,3 @@
+D:/Documentos/UMG/2026/Programacion III/Proyecto_Final/cpp/cmake-build-debug/CMakeFiles/Proyecto_Final.dir
+D:/Documentos/UMG/2026/Programacion III/Proyecto_Final/cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Documentos/UMG/2026/Programacion III/Proyecto_Final/cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
